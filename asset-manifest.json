@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-flower/static/css/main.1b023a2e.css",
+    "main.js": "/react-flower/static/js/main.66dc8ec3.js",
+    "static/media/logo-flower.png": "/react-flower/static/media/logo-flower.a65431ed7b3b05031f9a.png",
+    "index.html": "/react-flower/index.html",
+    "main.1b023a2e.css.map": "/react-flower/static/css/main.1b023a2e.css.map",
+    "main.66dc8ec3.js.map": "/react-flower/static/js/main.66dc8ec3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b023a2e.css",
+    "static/js/main.66dc8ec3.js"
+  ]
+}
